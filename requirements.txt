@@ -1,0 +1,6 @@
+# There are no external dependencies for this project.If you need to add any in the future, simply include them here.
+
+# However, if you ever add dependencies, the file should look something like this:
+
+requests==2.25.1
+numpy==1.21.2
